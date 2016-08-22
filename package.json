@@ -1,6 +1,6 @@
 {
   "name": "devicedetect",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A little library to detect devices",
   "main": "build/index.js",
   "scripts": {
