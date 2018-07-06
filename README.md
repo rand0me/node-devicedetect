@@ -1,4 +1,4 @@
-# devicedetect [![devicedetect](https://img.shields.io/npm/v/devicedetect.svg?maxAge=2592000)]()
+# devicedetect [![devicedetect](https://img.shields.io/npm/v/devicedetect.svg?maxAge=2592000)]() [![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-devicedetect.svg)](https://greenkeeper.io/)
 
 ## Installation
 
